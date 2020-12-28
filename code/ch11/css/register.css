@@ -1,0 +1,56 @@
+			.register{
+    width: 500px;
+    height: 1000px;
+    margin: 30px auto;
+
+}
+.register h1{
+    font-size: 24px;
+}
+.register p{
+    margin-bottom: 30px;
+}
+.register p input{
+    width: 200px;
+    height: 20px;
+   outline: none;
+}
+.error{
+    color: red;
+}
+.error:first-child{
+    border: 1px solid red;
+    color: #333;
+}
+			
+    #vcode {
+        height: 35px;
+        width: 40%;
+        font-size: 15px;
+        margin-left: 15%;
+        border-radius: 5px;
+        border: 1;
+        padding-left: 8px;
+    }
+ #password {
+        height: 35px;
+        width: 40%;
+        font-size: 15px;
+        margin-left: 15%;
+        border-radius: 5px;
+        border: 1;
+        padding-left: 8px;
+    }
+    
+    #code {
+        color: #ffffff;
+        /*字体颜色白色*/
+        background-color: blue;
+        font-size: 20px;
+        font-family: "华康娃娃体W5";
+        padding: 5px 35px 10px 35px;
+        margin-left: 5%;
+        cursor: pointer;
+    }
+    
+    
